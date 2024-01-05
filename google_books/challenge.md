@@ -1,0 +1,1 @@
+A fun challenge to do with this API is to use your OAuth knowledge and create your own bookshelf app that keeps records of all the books that you’ve read or want to read. You can even connect it to your favorite bookstore or library afterward to quickly find books from your wish list that are available near you
